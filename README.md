@@ -10,10 +10,10 @@
 
 <!-- Social Links with Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/justtdhruvv">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/justtdhruvv">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
@@ -26,7 +26,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=justtdhruvv&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 <br>
@@ -89,15 +89,15 @@ const aboutMe = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justtdhruvv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justtdhruvv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justtdhruvv&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
@@ -105,7 +105,7 @@ const aboutMe = {
 <!-- Activity Graph -->
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=justtdhruvv&theme=tokyo-night&hide_border=true&area=true" width="100%">
 
 <br>
 
@@ -113,7 +113,7 @@ const aboutMe = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=justtdhruvv&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
 </div>
 
 <br>
@@ -122,11 +122,11 @@ const aboutMe = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/justtdhruvv/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justtdhruvv&repo=project1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/justtdhruvv/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justtdhruvv&repo=project2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -168,13 +168,13 @@ const aboutMe = {
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/justtdhruvv">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/justtdhruvv">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://dev.to/yourusername">
+  <a href="https://dev.to/justtdhruvv">
     <img src="https://img.shields.io/badge/dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to" />
   </a>
 </div>
@@ -196,7 +196,7 @@ const aboutMe = {
   
   <br><br>
   
-  ⭐️ From [YourUsername](https://github.com/yourusername)
+  ⭐️ From [justtdhruvv](https://github.com/justtdhruvv)
 </div>
 
 <!-- Wave Footer -->
